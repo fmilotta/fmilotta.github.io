@@ -32,6 +32,15 @@
     
     <url>
     
+      <loc>/removed/teaching/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/removed/tags/</loc>
       <lastmod>2017-09-20T00:00:00+02:00</lastmod>
     </url>
@@ -70,6 +79,15 @@
     
       <loc>/project/medicalresearch/</loc>
       <lastmod>2017-12-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/multimedia/</loc>
+      <lastmod>2017-10-09T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -212,7 +230,7 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
+      <loc>/removed/getting-started/</loc>
       <lastmod>2017-09-03T00:00:00+02:00</lastmod>
     </url>
     
@@ -221,7 +239,7 @@
     
     <url>
     
-      <loc>/post/widgets/</loc>
+      <loc>/removed/teaching/widgets/</loc>
       <lastmod>2016-04-19T00:00:00+02:00</lastmod>
     </url>
     
@@ -230,7 +248,7 @@
     
     <url>
     
-      <loc>/post/managing-content/</loc>
+      <loc>/removed/managing-content/</loc>
       <lastmod>2016-04-18T00:00:00+02:00</lastmod>
     </url>
     
@@ -239,7 +257,16 @@
     
     <url>
     
-      <loc>/post/writing-markdown-latex/</loc>
+      <loc>/removed/teaching/managing-content/</loc>
+      <lastmod>2016-04-18T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/removed/writing-markdown-latex/</loc>
       <lastmod>2016-04-17T00:00:00+02:00</lastmod>
     </url>
     
@@ -329,7 +356,16 @@
     
     <url>
     
-      <loc>/post/migrate-from-jekyll/</loc>
+      <loc>/removed/migrate-from-jekyll/</loc>
+      <lastmod>2014-03-10T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/removed/teaching/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+01:00</lastmod>
     </url>
     
@@ -525,8 +561,28 @@
     
     <url>
     
+      <loc>/tags/teach/</loc>
+      <lastmod>2016-04-17T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/tsp/</loc>
       <lastmod>2017-12-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/unict/</loc>
+      <lastmod>2017-10-09T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
