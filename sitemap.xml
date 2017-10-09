@@ -95,6 +95,15 @@
     
     <url>
     
+      <loc>/post/patternrecogntion/</loc>
+      <lastmod>2017-10-08T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/milotta2017digital/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -275,6 +284,24 @@
     
     <url>
     
+      <loc>/post/humaninteraction/</loc>
+      <lastmod>2016-01-31T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/digitalgamedev/</loc>
+      <lastmod>2016-01-30T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/stanco20163d/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -322,6 +349,15 @@
     
       <loc>/publication/stanco2016tracking/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/computervision/</loc>
+      <lastmod>2015-01-31T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -404,6 +440,36 @@
     
       <loc>/publication_types/2/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/2014-15/</loc>
+      <lastmod>2017-10-09T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/2015-16/</loc>
+      <lastmod>2016-01-31T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/2016-17/</loc>
+      <lastmod>2017-10-09T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -501,6 +567,16 @@
     
     <url>
     
+      <loc>/tags/magistrale/</loc>
+      <lastmod>2017-10-09T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/medicalresearch/</loc>
       <lastmod>2017-12-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -563,6 +639,16 @@
     
       <loc>/tags/teach/</loc>
       <lastmod>2016-04-17T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/triennale/</loc>
+      <lastmod>2016-01-31T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
