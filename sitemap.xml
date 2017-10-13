@@ -87,7 +87,7 @@
     <url>
     
       <loc>/post/multimedia/</loc>
-      <lastmod>2017-10-09T00:00:00+02:00</lastmod>
+      <lastmod>2017-10-13T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -449,7 +449,7 @@
     <url>
     
       <loc>/tags/2014-15/</loc>
-      <lastmod>2017-10-09T00:00:00+02:00</lastmod>
+      <lastmod>2017-10-13T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -469,7 +469,17 @@
     <url>
     
       <loc>/tags/2016-17/</loc>
-      <lastmod>2017-10-09T00:00:00+02:00</lastmod>
+      <lastmod>2017-10-13T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/2017-18/</loc>
+      <lastmod>2017-10-13T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -568,7 +578,7 @@
     <url>
     
       <loc>/tags/magistrale/</loc>
-      <lastmod>2017-10-09T00:00:00+02:00</lastmod>
+      <lastmod>2017-10-13T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -668,7 +678,7 @@
     <url>
     
       <loc>/tags/unict/</loc>
-      <lastmod>2017-10-09T00:00:00+02:00</lastmod>
+      <lastmod>2017-10-13T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
