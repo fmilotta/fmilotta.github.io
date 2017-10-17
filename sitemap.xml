@@ -86,6 +86,15 @@
     
     <url>
     
+      <loc>/post/datamanagement/</loc>
+      <lastmod>2017-10-17T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/multimedia/</loc>
       <lastmod>2017-10-13T00:00:00+02:00</lastmod>
     </url>
@@ -479,7 +488,7 @@
     <url>
     
       <loc>/tags/2017-18/</loc>
-      <lastmod>2017-10-13T00:00:00+02:00</lastmod>
+      <lastmod>2017-10-17T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -539,6 +548,16 @@
     
       <loc>/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/fits-steve-jobs/</loc>
+      <lastmod>2017-10-17T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
