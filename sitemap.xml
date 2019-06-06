@@ -50,6 +50,15 @@
     
     <url>
     
+      <loc>/post/bestudent1819/</loc>
+      <lastmod>2018-12-12T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/computermusic1819/</loc>
       <lastmod>2019-05-01T00:00:00+02:00</lastmod>
     </url>
@@ -759,6 +768,16 @@
     
       <loc>/removed/</loc>
       <lastmod>2016-04-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/stub/</loc>
+      <lastmod>2018-12-12T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
