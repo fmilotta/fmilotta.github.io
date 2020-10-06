@@ -50,6 +50,15 @@
     
     <url>
     
+      <loc>/post/computermusic2021/</loc>
+      <lastmod>2020-10-07T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/computermusic1920/</loc>
       <lastmod>2020-04-04T00:00:00+02:00</lastmod>
     </url>
@@ -626,6 +635,16 @@
     
     <url>
     
+      <loc>/tags/2020-21/</loc>
+      <lastmod>2020-10-07T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/6/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -816,7 +835,7 @@
     <url>
     
       <loc>/tags/triennale/</loc>
-      <lastmod>2020-04-04T00:00:00+02:00</lastmod>
+      <lastmod>2020-10-07T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -836,7 +855,7 @@
     <url>
     
       <loc>/tags/unict/</loc>
-      <lastmod>2020-04-04T00:00:00+02:00</lastmod>
+      <lastmod>2020-10-07T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
